@@ -22,37 +22,3 @@
 </a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=FxyyCx&label=Profile%20views&color=0e75b6&style=flat" alt="lfathh" /> </p>
 <br>
-<br>
-
-<h2 align="center"></h2>
-
-<br>
-<p align="center">
-  <a href="https://github.com/lfathh"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=monxnl&theme=tokyonight&layout=compact" /></a>
-
-<p align="center">
-  <a href="https://github.com/lfathh"> <img  alt="lfathh's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/lfathh?cardType=github&theme=github-dark&preferLogin=true" />  </a>
-
-
-
-<p align="center">
-  <a href="https://github.com/lfathh">
-    <img src="https://streak-stats.demolab.com?user=lfathh&theme=dark&background=000000" alt="GitHub Streak">
-  </a>
-</p>
-
-
- <p align="center">
-    <a href="https://github.com/lfathh">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=lfathh&theme=redical" alt="Stats">
-    </a>
-</p>
-<p align="center">
-  <a href="https://github.com/monxnl"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=monxnl&theme=tokyonight&layout=compact" /></a>
-</p>
-
-
-
-<p align="center"><a href="https://github.com/lfathh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfathh&theme=radical&layout=compact"></a></p> 
-
-
