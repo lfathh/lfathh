@@ -26,24 +26,6 @@
 
 <h2 align="center"></h2>
 
-
-<br>
-
-</p> 
-<div align="center">
-  <!-- <img src="https://avatars.githubusercontent.com/u/124222684?v=4" alt="Your Profile Picture" width="200" height="200"> -->
-
-  <br>
-    
-
-###
-
-<br>
-
-<!-- 
-<h2 align="center"></h2> -->
-
-
 <br>
 <p align="center">
   <a href="https://github.com/lfathh"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=monxnl&theme=tokyonight&layout=compact" /></a>
