@@ -55,14 +55,14 @@
 
 <p align="center">
   <a href="https://github.com/lfathh">
-    <img src="https://streak-stats.demolab.com?user=FxyyCx&theme=dark&background=000000" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=lfathh&theme=dark&background=000000" alt="GitHub Streak">
   </a>
 </p>
 
 
  <p align="center">
     <a href="https://github.com/lfathh">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=FxyyCx&theme=redical" alt="Stats">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=lfathh&theme=redical" alt="Stats">
     </a>
 </p>
 <p align="center">
@@ -71,6 +71,6 @@
 
 
 
-<p align="center"><a href="https://github.com/lfathh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FxyyCx&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/lfathh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfathh&theme=radical&layout=compact"></a></p> 
 
 
