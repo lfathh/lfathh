@@ -17,7 +17,6 @@
 <a href="https://github.com/lfathh" target="_blank">
 <img src=https://img.shields.io/badge/Github-E4405F?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=FxyyCx&label=Profile%20views&color=0e75b6&style=flat" alt="lfathh" /> </p>
 <br>
 <div align="center">
 
