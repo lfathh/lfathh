@@ -11,22 +11,12 @@
 <h2 align ="center"> 📝 Connect With Me 📝</h2>
 <br> 
 <div align="center">
-<a href="https://fxyycxx-profile.vercel.app" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a> 
 <a href="https://github.com/lfathh" target="_blank">
 <img src=https://img.shields.io/badge/Github-E4405F?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+<a href="https://t.me/fxyycxx2" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=FxyyCx&label=Profile%20views&color=0e75b6&style=flat" alt="lfathh" /> </p>
 <br>
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfathh&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Most Used Languages" />
-
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=lfathh&label=PROFILE+VIEWS&style=flat-square&color=0e75c6" alt="Profile Views" />
-  <a href="https://wakatime.com/@lfathh">
-    <img src="https://wakatime.com/badge/user/lfathh.svg" alt="Wakatime Stats" />
-  </a>
-
-</div>
